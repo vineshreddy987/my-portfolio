@@ -1,0 +1,19 @@
+{
+  "name": "vinesh-portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio of Esukapalli Vinesh Reddy - Aspiring AI Engineer",
+  "author": "Esukapalli Vinesh Reddy",
+  "license": "MIT",
+  "keywords": [
+    "portfolio",
+    "AI",
+    "machine-learning",
+    "python",
+    "web-development"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vineshreddy987/my-portfolio"
+  },
+  "homepage": "https://vineshreddy987.github.io/my-portfolio/"
+}
