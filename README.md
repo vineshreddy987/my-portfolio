@@ -14,16 +14,18 @@ This portfolio showcases Esukapalli Vinesh Reddy's work as an Aspiring AI Engine
 
 ## Pages
 
-1. **Home Page**: Main navigation hub
-2. **About Page**: Professional background, education, and skills
-3. **Projects Page**: Showcase of AI, ML, and web development projects
+1. **Home Page**: Main navigation hub with featured projects
+2. **About Page**: Professional background, education, skills, and contact details
+3. **Projects Page**: Showcase of AI, ML, and web development projects with interactive games
 
 ## Technologies Used
 
 - **Frontend**: HTML5, CSS3, JavaScript
-- **Icons**: Font Awesome
+- **Icons**: Font Awesome 6.4.0
 - **Animations**: CSS transitions and keyframe animations
+- **Interactive Games**: Snake Game and 2048 Puzzle
 - **Responsive Design**: Media queries for all device sizes
+- **Deployment**: GitHub Pages
 
 ## Getting Started
 
@@ -41,39 +43,44 @@ open index.html
 ```
 
 ## Live Demo
+
 🔗 **Visit Portfolio**: https://vineshreddy987.github.io/my-portfolio/
 
 ## Repository
+
 📂 **GitHub Repository**: https://github.com/vineshreddy987/my-portfolio
 
 ## Project Structure
 
 ```
 portfolio/
-├── index.html          # Main navigation page
+├── index.html          # Main navigation hub
 ├── home.html           # Home page with projects showcase
-├── about.html          # About page
-├── projects.html       # Projects page with details
-├── skills.html         # Skills page
-├── contact.html        # Contact page
-└── README.md           # Project documentation
+├── about.html          # About page with resume and contact
+├── projects.html       # Projects page with games
+├── package.json        # Project metadata
+├── README.md           # Project documentation
+└── travel_17424932.png # Favicon
 ```
 
-## Live Demo
+## Featured Projects
 
-View the live portfolio at: [https://your-portfolio-url.com](https://your-portfolio-url.com)
+- **Healthcare Virtual Assistant Web App** - Symptom analyzer with hospital locator using Google Gemini AI
+- **InfoGenie: Chatbot** - Multi-user college management chatbot with Flask & MySQL
+- **Fraud Detection Model** - LightGBM model with ADASYN for financial fraud detection
+- **Complaint Management System** - Django-based system with AI-powered ticket generation
+- **AI Image Captioning** - React + Flask application for generating image captions
 
-## Contributing
+## Contact & Social Links
 
-Contributions are welcome! Please fork the repository and create a pull request with your improvements.
+- **Email**: vineshreddy987@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/vinesh-reddy-e-3a1936283/
+- **GitHub**: https://github.com/vineshreddy987
 
-## License
+## Interactive Features
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+- **Snake Game**: Guide the snake to eat food without hitting walls
+- **2048 Puzzle**: Join tiles to reach the 2048 tile
+- **Responsive Design**: Works on desktop, tablet, and mobile devices
+- **Smooth Animations**: Engaging UI with CSS animations and transitions
 
-## Contact
-
-- **Name**: Nelakurthi Naveen
-- **Email**: naveennelakurthi2709@gmail.com
-- **LinkedIn**: [linkedin.com/in/naveen-nelakurthi](https://www.linkedin.com/in/naveen-nelakurthi-8a59b5264)
-- **GitHub**: [github.com/naveen-8790](https://github.com/naveen-8790)
